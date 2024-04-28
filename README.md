@@ -11,7 +11,8 @@
   <p align="center">
     Piekielny Rodowód to projekt w pełni napisany przy użyciu LaTeX. Jest to scenariusz fabuły do gry D&D. <br>
     Dodatkowy podgląd plików .tex w załączniku po niżej: <br>
-    https://www.overleaf.com/read/wsjtjnmpdgry#b1942f
+    https://www.overleaf.com/read/wsjtjnmpdgry#b1942f <br>
+    Mogą wystąpić mniejsze różnice pomiędzy kodem w repozytorium a kodem na Overleaf
   </p>
 
   <h2 align="center">O FABULE</h2>
@@ -28,9 +29,9 @@
   <p align="center">
     Piekielny Rodowód is a project fully written using LaTeX. It's a storyline script for a D&D game. <br>
     Additional preview of .tex files in the attachment below: <br>
-    https://www.overleaf.com/read/wsjtjnmpdgry#b1942f
+    https://www.overleaf.com/read/wsjtjnmpdgry#b1942f <br>
+    There may be minor differences between the code in the repository and the code on Overleaf.
   </p>
-
   <h2 align="center">ABOUT STORY</h2>
   <p>
     The players receive a task from Ravn to retrieve a stolen infernal artifact in the city of Alegard. They can gather information in various places such as Agon's mansion, the port, the market, and the slums. Agon, a nobleman affected by the theft, suggests checking the monastery of the Hell Hunters.<br>
